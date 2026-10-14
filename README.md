@@ -1,4 +1,6 @@
-# eylema-training
+# Eyleme training
+
+**Name update — 14 October 2026:** The product is **Eyleme** (formerly Eylema); the companion product is **Derleme** (formerly Derlema), and **Onama** keeps its name. The GitHub organization is now `eyleme-dev` (formerly `eylema-dev`). The main repository is now `eyleme-dev/eyleme`. Auxiliary repository basenames, domains, commands, crate/package names, environment variables, data paths and protocol/schema identifiers retain their current spelling for compatibility. Historical evidence preserves its original names and URLs.
 
 Pinned training recipes and permitted data preparation. [Türkçe](README.tr.md).
 
@@ -8,7 +10,7 @@ Pinned training recipes and permitted data preparation. [Türkçe](README.tr.md)
 
 Reviewable Unsloth recipes, environment locks, data-lineage formats and candidate evaluation handoffs. Pin and inventory training dependencies before running them. Training produces candidates, never automatic promotion.
 
-Production Rust code, shared types, runtime/model execution and the CLI stay in [eylema](https://github.com/eylema-dev/eylema); product contracts live in [English docs](https://github.com/eylema-dev/eylema-docs-en) and [Turkish docs](https://github.com/eylema-dev/eylema-docs-tr). [The repository map](https://github.com/eylema-dev/devguide/blob/main/docs/en/repository-map.md) defines the boundaries.
+Production Rust code, shared types, runtime/model execution and the CLI stay in [Eyleme](https://github.com/eyleme-dev/eyleme); product contracts live in [English docs](https://github.com/eyleme-dev/eylema-docs-en) and [Turkish docs](https://github.com/eyleme-dev/eylema-docs-tr). [The repository map](https://github.com/eyleme-dev/devguide/blob/main/docs/en/repository-map.md) defines the boundaries.
 
 ## First acceptance gate
 
