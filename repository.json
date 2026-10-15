@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "repository": "eyleme-dev/eylema-training",
+  "repository": "eyleme-dev/eyleme-training",
   "role": "training",
   "stage": "documentation",
   "tooling_version": "0.3.0",
